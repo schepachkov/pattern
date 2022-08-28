@@ -2,6 +2,9 @@ package ru.schepachkov.pattern.builder;
 
 import ru.schepachkov.pattern.builder.model.Person;
 
+/*
+ * Creation pattern
+ */
 public class Main {
 
     public static void main(String[] args) {

@@ -4,6 +4,9 @@ import ru.schepachkov.pattern.adapter.model.EuroRadio;
 import ru.schepachkov.pattern.adapter.model.socket.adapter.EuroSocketAdapter;
 import ru.schepachkov.pattern.adapter.model.socket.impl.SimpleAmericanSocket;
 
+/*
+* Structure pattern
+*/
 public class Main {
 
     public static void main(String[] args) {

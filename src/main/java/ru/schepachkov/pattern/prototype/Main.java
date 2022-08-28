@@ -3,6 +3,9 @@ package ru.schepachkov.pattern.prototype;
 import ru.schepachkov.pattern.prototype.model.Address;
 import ru.schepachkov.pattern.prototype.model.Person;
 
+/*
+ * Creation pattern
+ */
 public class Main {
 
     public static void main(String[] args) {
